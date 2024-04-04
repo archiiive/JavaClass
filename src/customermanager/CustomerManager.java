@@ -21,7 +21,7 @@ public class CustomerManager {
 //	static int index = -1;
 	
 	static int count;    // 고객 정보 저장 개수
-	
+	 	
 	static Scanner scan = new Scanner(System.in);
 
 	public static void main(String[] args) {

@@ -72,4 +72,18 @@ public class Student extends Person {
 				+major+"]";
 	}
 
+	
+	public String getName(String name) {
+		return this.name=name;
+	}
+
+	public String getMajor() {
+		return major;
+	}
+
+	public void setMajor(String major) {
+		this.major = major;
+	}
+	
+	
 }
